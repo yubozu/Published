@@ -1,7 +1,9 @@
 # Published
 A list of published paper in our group
+
+
 |Name|Year|bib ID|
-|----|----|------|
+|:--:|:--:|:----:|
 |Wearable Sensors based Automatic Box and Block Test System|2019|目前找不到|
 |COSA: Contextualized and Objective System to Support ADHD Diagnosis|2018|chen2018cosa|
 |Less annotation on active learning using confidence-weighted predictions|2018|yang2018less|
