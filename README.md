@@ -1,6 +1,6 @@
 # Published
 A list of published paper in our group
-
+The bib info for the English paper is listed in [reference_eng.bib](reference_eng.bib) 
 
 |No.|First/Main Author|Conference/Journel|Name|Year|bib ID|
 |:-:|:---------------:|:-----------------|:--:|:--:|:----:|
